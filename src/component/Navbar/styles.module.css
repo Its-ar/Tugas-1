@@ -1,0 +1,39 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #152a46;
+  color: #fff;
+  padding: 20px;
+  opacity: 0.9;
+}
+
+.navbar-left {
+  display: flex;
+  align-items: align-center;
+}
+
+.navbar-right {
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+}
+
+.logo img {
+  width: 20%;
+}
+
+.normal-link {
+  color: #fff;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.btn {
+  background-color: #fff;
+  color: #333;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
